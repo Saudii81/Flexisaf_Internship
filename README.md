@@ -19,7 +19,7 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
 
 ## 📂 Contents
 
-### 1. Tic-Tac-Toe AI Agent
+### Part A. Tic-Tac-Toe AI Agent
 - File: `Task_2_tic_tac_toe_ai.py`
 - Implements a Q-learning AI agent that learns to play Tic-Tac-Toe.
 - Features:
