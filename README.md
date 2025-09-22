@@ -10,17 +10,27 @@
 
 ---
 
-### Task 2: Tic-Tac-Toe AI Agent & Data Visualization
+# 📌 Module 1 Task 2
 
-#### Part A: Tic-Tac-Toe AI Agent
-- **Location:** `Module-1-Task-2/tic_tac_toe_ai.py`  
-- **Description:** A Python program that simulates a simple AI agent that can play Tic-Tac-Toe.  
-  - Defines the game board.  
-  - Checks if a player has won.  
-  - Checks if the game is a tie.  
-  - Contains the main game loop.  
-  - Calls the main game loop to start the game.  
-- **Status:** ✅ Complete  
+This repository contains solutions for **Module 1 Task 2** of the Flexisaf Internship.  
+It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using Matplotlib.
+
+---
+
+## 📂 Contents
+
+### 1. Tic-Tac-Toe AI Agent
+- File: `tic_tac_toe_q_agent.py`
+- Implements a Q-learning AI agent that learns to play Tic-Tac-Toe.
+- Features:
+  - Defines the game board.
+  - Checks win/tie conditions.
+  - AI trains itself using reinforcement learning.
+  - Human can play against the trained AI.
+
+Run:
+```bash
+python tic_tac_toe_q_agent.py 
 
 #### Part B: Data Visualization with Matplotlib
 - **Location:** `Module-1-Task-2/data_visualization.ipynb`  
