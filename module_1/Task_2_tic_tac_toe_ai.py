@@ -127,6 +127,12 @@ def play_game():
             print("It's a tie")
             break
 
+if __name__ == "__main__":
+    # Train the agent (do this once, can be skipped later if Q-table already saved)
+    train_q_agent(5000)  
+    
+    # Play against the trained AI
+    play_game()
 
 # Example usage:
 # train_q_agent(20000)  # Run once to train
