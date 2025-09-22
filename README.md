@@ -4,7 +4,7 @@
 ## 📌 Module 1 Tasks
 
 ### Task 1: Rock, Paper, Scissors Game
-- **Location:** `Module-1-Task-1/`  
+- **Location:** `module_1/Task_1`  
 - **Description:** A Python program that simulates a Rock-Paper-Scissors game between the user and the computer.  
 - **Status:** ✅ Complete  
 
@@ -20,7 +20,7 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
 ## 📂 Contents
 
 ### 1. Tic-Tac-Toe AI Agent
-- File: `tic_tac_toe_q_agent.py`
+- File: `Task_2_tic_tac_toe_ai.py`
 - Implements a Q-learning AI agent that learns to play Tic-Tac-Toe.
 - Features:
   - Defines the game board.
@@ -28,12 +28,9 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
   - AI trains itself using reinforcement learning.
   - Human can play against the trained AI.
 
-Run:
-```bash
-python tic_tac_toe_q_agent.py 
 
 #### Part B: Data Visualization with Matplotlib
-- **Location:** `Module-1-Task-2/data_visualization.ipynb`  
+- **Location:** `module_1/Task_2`  
 - **Description:** Visualization tasks using sales data from [company_sales_data.csv](https://pynative.com/wp-content/uploads/2019/01/company_sales_data.csv).  
   - **Exercise 1:** Read Total profit of all months and show it using a line plot.  
   - **Exercise 2:** Read data for Bathing soap and Facewash of all months and display it using a subplot.  
