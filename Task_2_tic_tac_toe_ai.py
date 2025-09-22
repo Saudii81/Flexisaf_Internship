@@ -105,11 +105,11 @@ def play_game():
         board[move] = human
         if check_win(board, human):
             print_board()
-            print("You win! 🎉")
+            print("You win!")
             break
         if check_tie(board):
             print_board()
-            print("It's a tie 🤝")
+            print("It's a tie")
             break
 
         # AI move
