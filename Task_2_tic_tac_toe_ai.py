@@ -121,10 +121,10 @@ def play_game():
         print_board()
 
         if check_win(board, ai):
-            print("AI wins! 💻")
+            print("AI wins!")
             break
         if check_tie(board):
-            print("It's a tie 🤝")
+            print("It's a tie")
             break
 
 
