@@ -47,7 +47,7 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
 
 ## 🛠️ Requirements
 
-- Python 3.8 or higher  
+- Python 3.10.0 or higher  
 - Libraries:  
   - `matplotlib`  
   - `pandas`  
