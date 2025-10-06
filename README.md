@@ -10,7 +10,7 @@
 
 ---
 
-# 📌 Module 1 Task 2
+## 📌 Module 1 Task 2
 
 This repository contains solutions for **Module 1 Task 2** of the Flexisaf Internship.  
 It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using Matplotlib.
