@@ -74,7 +74,8 @@ In this task, I analyzed a small publicly available dataset (the Iris dataset) u
 - Python 3.10.0 or higher  
 - Libraries:  
   - `matplotlib`  
-  - `pandas`  
+  - `pandas`
+  - `numpy` 
 - Jupyter Notebook (optional, for interactive execution)  
 - Command line or IDE (VS Code, PyCharm, etc.)  
 
