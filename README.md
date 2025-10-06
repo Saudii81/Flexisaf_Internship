@@ -1,7 +1,7 @@
 
 ---
 
-## 📌 Module 1 Tasks
+## 📌 Module 1 Task 1
 
 ### Task 1: Rock, Paper, Scissors Game
 - **Location:** `module_1/Task_1`  
