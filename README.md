@@ -39,8 +39,8 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
 
 ---
 
-## 📌 Internship Task 3 
-Internship Task 3 – Data Analysis Using Python (NumPy & Pandas)
+## 📌 Module 2 Task 3 
+Task 3 – Data Analysis Using Python (NumPy & Pandas)
 In this task, I analyzed a small publicly available dataset (the Iris dataset) using Python’s Pandas and NumPy libraries. The analysis involved two major steps:
 
 - **Data Exploration:**
