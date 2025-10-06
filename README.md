@@ -40,24 +40,24 @@ It includes a simple AI agent for Tic-Tac-Toe and data visualization tasks using
 ---
 
 ## 📌 Internship Task 3 
-🧩 Internship Task 3 – Data Analysis Using Python (NumPy & Pandas)
+Internship Task 3 – Data Analysis Using Python (NumPy & Pandas)
 In this task, I analyzed a small publicly available dataset (the Iris dataset) using Python’s Pandas and NumPy libraries. The analysis involved two major steps:
 
-- **Data Exploration:
+- **Data Exploration:**
 
-Displayed the first few records using data.head().
+  - **Displayed the first few records using data.head().**
 
-Checked column data types and null values with data.info().
+  - **Checked column data types and null values with data.info().**
 
-Generated summary statistics (mean, median, standard deviation, min, max, etc.) using data.describe().
+  - **Generated summary statistics (mean, median, standard deviation, min, max, etc.) using data.describe().**
 
-Statistical Analysis:
+- **Statistical Analysis:**
 
-Calculated key measures such as mean, median, mode, and standard deviation for all numerical features.
+  - **Calculated key measures such as mean, median, mode, and standard deviation for all numerical features.**
 
-Examined relationships between features using the correlation matrix (data.corr()).
+  - **Examined relationships between features using the correlation matrix (data.corr()).**
 
-This simple analysis demonstrates how Pandas and NumPy can be used to quickly explore and summarize datasets for deeper insights in data science projects
+🧩 This simple analysis demonstrates how Pandas and NumPy can be used to quickly explore and summarize datasets for deeper insights in data science projects
 
 ---
 
