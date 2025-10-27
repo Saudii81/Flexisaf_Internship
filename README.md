@@ -77,6 +77,8 @@ In this task, I analyzed a small publicly available dataset (the Iris dataset) u
 I created line and scatter plots to observe trends and relationships, and used histograms and box plots to explore data distribution.
 The visualizations were based on the Iris dataset to showcase insights into flower measurements.
 
+---
+
 ## 🚀 How to Navigate
 
 - Each module’s tasks are stored in separate folders.  
