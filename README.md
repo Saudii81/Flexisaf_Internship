@@ -73,6 +73,11 @@ In this task, I analyzed a small publicly available dataset (the Iris dataset) u
 | **Histogram**    | Seaborn    | Displays frequency distribution of sepal width         |
 | **Box Plot**     | Seaborn    | Compares petal length across different species         |
 
+## 📂 Files Included
+- `Data_Analysis_Task_3.ipynb`
+- `Data_Analysis_and_Visualization_Task_4.ipynb`
+- `requirements.txt`
+  
 🧩 This task demonstrates basic data visualization using Matplotlib and Seaborn.
 I created line and scatter plots to observe trends and relationships, and used histograms and box plots to explore data distribution.
 The visualizations were based on the Iris dataset to showcase insights into flower measurements.
