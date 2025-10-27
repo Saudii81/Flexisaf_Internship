@@ -61,6 +61,21 @@ In this task, I analyzed a small publicly available dataset (the Iris dataset) u
 🧩 This simple analysis demonstrates how Pandas and NumPy can be used to quickly explore and summarize datasets for deeper insights in data science projects
 
 ---
+## 📌 Module 3 Task 4 
+- **Location:** `module_3/Task_4` 
+- **Status:** ✅ Complete 
+- **Data Visualization using Python:**
+
+| Plot Type        | Library    | Purpose                                                |
+| ---------------- | ---------- | ------------------------------------------------------ |
+| **Line Plot**    | Matplotlib | Shows changes in sepal length across data points       |
+| **Scatter Plot** | Matplotlib | Visualizes relationship between sepal and petal length |
+| **Histogram**    | Seaborn    | Displays frequency distribution of sepal width         |
+| **Box Plot**     | Seaborn    | Compares petal length across different species         |
+
+🧩 This task demonstrates basic data visualization using Matplotlib and Seaborn.
+I created line and scatter plots to observe trends and relationships, and used histograms and box plots to explore data distribution.
+The visualizations were based on the Iris dataset to showcase insights into flower measurements.
 
 ## 🚀 How to Navigate
 
