@@ -71,5 +71,5 @@ This project analyzes quiz attempts and leaderboard data to evaluate learner per
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/quiz-analytics-leaderboard.git
+git clone https://github.com//Saudii81/Flexisaf_Internship/quiz-analytics-leaderboard.git
 
